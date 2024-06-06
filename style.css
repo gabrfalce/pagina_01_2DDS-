@@ -42,6 +42,7 @@
     padding-right: 10px;
     }
     .banner1{
+    width: 20%;
     display: flex;
     justify-content: center;
     }
