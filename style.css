@@ -9,13 +9,14 @@
     }
     
     header{
-    background-color:blue;
+    background-color: blue;
     color: blue;
     width: 100%;
     padding: 20px;
     
     }
     .cabecalho-itens{
+    max-width: 1980px;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -28,7 +29,7 @@
     align-items: center;
     }
     .titulo_site{
-        color: #000;
+        color: black;
     padding: 50px;
     text-align: center;
     width: 50%;
@@ -41,7 +42,6 @@
     padding-right: 30px;
     }
     .banner1{
-        max-width: 1980px;
     display: flex;
     justify-content: center;
     }
